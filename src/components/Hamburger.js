@@ -59,7 +59,7 @@ const Hamburger = ({ state }) => {
         height: "100%"
       });
       staggerReveal(reveal1, reveal2);
-      fadeInUp(info);
+      // fadeInUp(info);
       staggerText(line1, line2, line3);
     }
   }, [state]);
@@ -107,7 +107,7 @@ const Hamburger = ({ state }) => {
                   </li>
                 </ul>
               </nav>
-              <div ref={el => (info = el)} className='info'>
+              {/* <div ref={el => (info = el)} className='info'>
                 <h3>Our Promise</h3>
                 <p>
                   The passage experienced a surge in popularity during the 1960s
@@ -115,9 +115,9 @@ const Hamburger = ({ state }) => {
                   during the 90s as desktop publishers bundled the text with
                   their software.
                 </p>
-              </div>
+              </div> */}
               <div className='locations'>
-                Locations:
+                <div>Locations:</div>
                 {/* Returning the list of cities */}
                 {cities.map(el => (
                   <span
