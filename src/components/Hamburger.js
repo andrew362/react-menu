@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import {
   staggerText,
   staggerReveal,
-  fadeInUp,
+  // fadeInUp,
   handleHover,
   handleHoverExit,
   handleCityReturn,
@@ -36,7 +36,7 @@ const Hamburger = ({ state }) => {
   let line1 = useRef(null);
   let line2 = useRef(null);
   let line3 = useRef(null);
-  let info = useRef(null);
+  // let info = useRef(null);
 
   useEffect(() => {
     // If the menu is open and we click the menu button to close it.
