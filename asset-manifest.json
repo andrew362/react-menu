@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-menu/static/css/main.cfba8f92.chunk.css",
+    "main.js": "/react-menu/static/js/main.5195110f.chunk.js",
+    "main.js.map": "/react-menu/static/js/main.5195110f.chunk.js.map",
+    "runtime-main.js": "/react-menu/static/js/runtime-main.c60a400d.js",
+    "runtime-main.js.map": "/react-menu/static/js/runtime-main.c60a400d.js.map",
+    "static/js/2.fd31a053.chunk.js": "/react-menu/static/js/2.fd31a053.chunk.js",
+    "static/js/2.fd31a053.chunk.js.map": "/react-menu/static/js/2.fd31a053.chunk.js.map",
+    "index.html": "/react-menu/index.html",
+    "precache-manifest.d82aa0bccf34ea917d6bfc33b7f12f5e.js": "/react-menu/precache-manifest.d82aa0bccf34ea917d6bfc33b7f12f5e.js",
+    "service-worker.js": "/react-menu/service-worker.js",
+    "static/css/main.cfba8f92.chunk.css.map": "/react-menu/static/css/main.cfba8f92.chunk.css.map",
+    "static/media/austin.webp": "/react-menu/static/media/austin.a7aadf33.webp",
+    "static/media/beijing.webp": "/react-menu/static/media/beijing.209dcd10.webp",
+    "static/media/dallas.webp": "/react-menu/static/media/dallas.2bc38187.webp",
+    "static/media/newyork.webp": "/react-menu/static/media/newyork.ebb81965.webp",
+    "static/media/sanfrancisco.webp": "/react-menu/static/media/sanfrancisco.b58ad59e.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c60a400d.js",
+    "static/js/2.fd31a053.chunk.js",
+    "static/css/main.cfba8f92.chunk.css",
+    "static/js/main.5195110f.chunk.js"
+  ]
+}
